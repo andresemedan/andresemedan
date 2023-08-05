@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 <h3 align="center">A passionate full-stack software engineer</h3>
+<ul align="center">
+<li>- 🔭 I’m currently working on [Film Hive](https://github.com/andresemedan/filmHive)</li>
 
-- 🔭 I’m currently working on [Film Hive](https://github.com/andresemedan/filmHive)
+<li>- 💬 Ask me about **Making movies 🎥**</li>
 
-- 💬 Ask me about **Making movies 🎥**
-
-- 📫 How to reach me **a.j.emedan@gmail.com**
+<li>- 📫 How to reach me **a.j.emedan@gmail.com**</li>
+</ul>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
