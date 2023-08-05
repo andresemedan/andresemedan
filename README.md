@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 <h3 align="center">A passionate full-stack software engineer</h3>
-<ul align="center">
+<ul align="center" style="list-style-type: none;">
 <li>- 🔭 I’m currently working on [Film Hive](https://github.com/andresemedan/filmHive)</li>
 
 <li>- 💬 Ask me about **Making movies 🎥**</li>
