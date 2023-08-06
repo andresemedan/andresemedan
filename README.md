@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Andrés</h1>
-<h3 align="left">A passionate full-stack software engineer</h3>
+<h3 align="left">An Amsterdam based Software Engineer who specializes in full-stack web applications.</h3>
 
 <p align="left">🔭 I’m currently workng on <a href="https://github.com/andresemedan/filmHive">Film Hive.</a> A full stack web app to connect indie filmmakers.</p>
 
