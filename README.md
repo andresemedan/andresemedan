@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Andrés</h1>
 <h3 align="left">An Amsterdam based Software Engineer who specializes in full-stack web applications.</h3>
+<ul>
+<li><p align="left">🔭 I’m currently workng on <a href="https://github.com/andresemedan/filmHive">Film Hive.</a> A full stack web app to connect indie filmmakers.</p></li>
 
-<p align="left">🔭 I’m currently workng on <a href="https://github.com/andresemedan/filmHive">Film Hive.</a> A full stack web app to connect indie filmmakers.</p>
-
-<p align="left">💬 Ask me about making movies 🎥</p>
-
+<li><p align="left">💬 Ask me about making movies 🎥</p></li>
+</ul>
 
 <br>
 
